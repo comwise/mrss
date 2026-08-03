@@ -17,7 +17,7 @@
 | 第2章 | 需求分析 | [02_需求分析.md](02_需求分析.md) | 已生成 |
 | 第3章 | 系统总体架构 | [03_系统总体架构.md](03_系统总体架构.md) | 已生成 |
 | 第4章 | Backend 设计 | [04_Backend设计.md](04_Backend设计.md) | 已生成 |
-| 第5章 | Communication 设计 | `05_Communication设计.md` | 待生成 |
+| 第5章 | Communication 设计 | [05_Communication设计.md](05_Communication设计.md) | 已生成 |
 | 第6章 | Controller 设计 | `06_Controller设计.md` | 待生成 |
 | 第7章 | Device 设计 | `07_Device设计.md` | 待生成 |
 | 第8章 | Access 设计 | `08_Access设计.md` | 待生成 |
